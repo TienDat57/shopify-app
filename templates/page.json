@@ -1,1 +1,126 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":36,"padding_bottom":36}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8f70b5cc-60c2-4790-b6ed-f3a80c31e103": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17051216937266__8f70b5cc-60c2-4790-b6ed-f3a80c31e103-16695760208413d716-1": {
+          "type": "text",
+          "settings": {
+            "text": "WE ARE",
+            "text_style": "body"
+          }
+        },
+        "template--17051216937266__8f70b5cc-60c2-4790-b6ed-f3a80c31e103-16695760208413d716-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bringing loud + proud Asian flavors to your fingertips.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17051216937266__8f70b5cc-60c2-4790-b6ed-f3a80c31e103-16695760208413d716-1",
+        "template--17051216937266__8f70b5cc-60c2-4790-b6ed-f3a80c31e103-16695760208413d716-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bg-02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "a5af1009-800b-452f-b424-fcd00ee39c7b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17051216937266__a5af1009-800b-452f-b424-fcd00ee39c7b-16695759951e7158a5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The founders",
+            "heading_size": "h0"
+          }
+        },
+        "template--17051216937266__a5af1009-800b-452f-b424-fcd00ee39c7b-16695759951e7158a5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re Vanessa + Kim Pham, the sisters and co-founders behind Omsom. We’re daughters of Vietnamese refugees, who grew up at our family’s kitchen counter, watching our Mẹ cook Viet dinners from scratch every night.<\/p><p>Pull up a stool and grab a bowl – welcome to our house. 🤗<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17051216937266__a5af1009-800b-452f-b424-fcd00ee39c7b-16695759951e7158a5-0",
+        "template--17051216937266__a5af1009-800b-452f-b424-fcd00ee39c7b-16695759951e7158a5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bg-03.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cea33b56-3b8b-4a9b-ab13-5350a7d8ef42": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17051216937266__cea33b56-3b8b-4a9b-ab13-5350a7d8ef42-16695762699fd5f4e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our promise",
+            "heading_size": "h1"
+          }
+        },
+        "template--17051216937266__cea33b56-3b8b-4a9b-ab13-5350a7d8ef42-16695762699fd5f4e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "No more diluted dishes, no more cultural compromise. Real deal Asian cuisine developed with chef tastemakers from your our favorite restaurants.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17051216937266__cea33b56-3b8b-4a9b-ab13-5350a7d8ef42-16695762699fd5f4e9-0",
+        "template--17051216937266__cea33b56-3b8b-4a9b-ab13-5350a7d8ef42-16695762699fd5f4e9-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bg-04.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8f70b5cc-60c2-4790-b6ed-f3a80c31e103",
+    "a5af1009-800b-452f-b424-fcd00ee39c7b",
+    "cea33b56-3b8b-4a9b-ab13-5350a7d8ef42"
+  ]
+}
