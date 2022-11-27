@@ -638,7 +638,7 @@ h6:empty {
   text-underline-offset: 0.3rem;
   color: rgb(var(--color-link));
   background-color: transparent;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-family: inherit;
 }
 
@@ -2637,6 +2637,9 @@ details[open] > .header__submenu {
 
 .header__menu-item:hover {
   color: rgb(var(--color-foreground));
+  background-color: rgba(var(--color-foreground), 0.05);
+  border-radius: 10px;
+  text-decoration: none;
 }
 
 .header__menu-item span {
